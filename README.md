@@ -4,7 +4,7 @@
 
 Clarity helps everyday investors understand markets, individual securities, and long-term financial decisions through a calmer, more explainable interface. The product direction combines portfolio visibility, plain-language research, and specialized AI agents without presenting the system as an autonomous trading bot.
 
-## AI-Assisted Development
+### AI-Assisted Development
 
 Clarity is a product prototype exploring how AI agents can support retail investment research and financial decision-making.
 
